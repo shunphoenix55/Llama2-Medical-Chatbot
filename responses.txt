@@ -1,0 +1,37 @@
+"My child has a fever of 102°F. What should I do?"
+
+It's important to seek medical attention immediately for your child's fever of 102°F as it can lead to dehydration, seizures, and death. It's not recommended to treat a high fever at home without medical supervision. Call the doctor or emergency services in your area for assistance.
+
+Sources:[Document(metadata={'source': 'data\71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf', 'page': 447}, page_content='a high fever, sweats, chills, poor appetite, vomiting,and weight loss. If untreated, infection may be fatal.'), Document(metadata={'source': 'data\71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf', 'page': 321}, page_content='day. However, the physician may recommend starting ata lower dosage and gradually increasing the dose toreduce the chance of unwanted side effects.\nThe dosage for children depends on the child’s age.\nCheck with the child’s physician for the correct dosage.\nPrecautions\nDicyclomine makes some people sweat less, which\nallows the body to overheat and may lead to heat prostra-tion ( fever and heat stroke ). Anyone taking this drug')]
+
+"How long does the common cold usually last in kids?"
+
+The duration of the common cold in children can vary depending on several factors, including age, overall health, and individual immune system strength. In general, the common cold in children tends to be shorter than in adults, usually lasting for around 5-7 days. However, some cases may persist longer, up to 10-14 days, especially in young children under 2 years old or those with weaker immune systems. It's important to note that the duration of the common cold can also be influenced by factors such as exposure to cold temperatures and humidity levels.
+
+Sources:[Document(metadata={'source': 'data\71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf', 'page': 194}, page_content='acute infections. It tends to be mild and short-lived, anddisappears without treatment.\nChronic cold antibody hemolytic anemia is most\ncommon in women and most often affects those who areover 40 and who have arthritis. This condition usuallylasts for a lifetime, generally causing few symptoms.However, exposure to cold temperatures can accelerate\nGALE ENCYCLOPEDIA OF MEDICINE 2 181AnemiasGEM - 0001 to 0432 - A  10/22/03 1:42 PM  Page 181'), Document(metadata={'source': 'data\71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf', 'page': 563}, page_content='40 to 55 years; however, a person’s general health isusually the more important factor.')]
+
+"Is it normal for a baby to have green poop?"
+
+It is not normal for a newborn to have green poop. Bilirubin is typically present in yellow or brown stools, but not green. Green stools can be a sign of something serious such as Kernicterus, which is a potentially lethal disease of newborns caused by excessive accumulation of bilirubin in the blood. It's important to seek medical attention right away if your baby's stool is green or has any other abnormal symptoms.
+
+Sources:[Document(metadata={'source': 'data\71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf', 'page': 345}, page_content='the newborn is considered normal, and therefore not a'), Document(metadata={'source': 'data\71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf', 'page': 493}, page_content='Kernicterus —A potentially lethal disease of new-\nborns caused by excessive accumulation of thebile pigment bilirubin.\nit turns yellow (jaundiced). Bile also turns the stool\nbrown. Without it, stools are the color of clay.\nCauses and symptoms\nIt is possible that a viral infection is responsible for\nthis disease, but evidence is not yet convincing. Thecause remains unknown.\nThe affected infant will appear normal at birth and')]
+
+"What are the symptoms of flu in children?"
+
+Symptoms of flu in children may include fever, cough, sore throat, runny nose, headache, muscle aches, fatigue, diarrhea, vomiting, and loss of appetite.
+
+Sources:[Document(metadata={'source': 'data\71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf', 'page': 432}, page_content='Some children have a few of the symptoms of autism,'), Document(metadata={'source': 'data\71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf', 'page': 355}, page_content='diarrhea, vomiting, and fever in addition to pain.')]
+
+"Can kids get headaches? My 7-year-old complains often."
+
+Yes, children with Ataxia-Telangiectasia (A-T) are very susceptible to getting frequent headaches because of changes in cerebral blood flow.
+
+Sources:[Document(metadata={'source': 'data\71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf', 'page': 432}, page_content='Some children have a few of the symptoms of autism,'), Document(metadata={'source': 'data\71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf', 'page': 401}, page_content='the large branching cells of the nervous system (Purkin-je’s cells) which are located in the cerebellum. A toddlerbecomes clumsy, loses balance easily and lacks musclecontrol. Speech becomes slurred and more difficult, andthe symptoms progressively worsen. Between ages twoand eight, telangiectases, or tiny, red “spider” veins,\nappear on the cheeks and ears and in the eyes.\nBy age 10-12, children with A-T can no longer control')]
+
+"How can I tell if my child is dehydrated?"
+
+The doctor will ask questions about the child's symptoms, such as how many times a day they wet the bed, how long they have been experiencing this problem, and whether or not the bedwetting is accompanied by other symptoms like frequent urination or an increased thirst. The doctor may also perform tests to rule out underlying conditions that can cause dehydration such as kidney dysfunction, hormonal imbalance, or electrolyte abnormalities.
+
+Sources:[Document(metadata={'source': 'data\71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf', 'page': 467}, page_content='Diagnosis\nIf a child continues to wet the bed after the age of\nsix, parents may feel the need to seek evaluation anddiagnosis by the family doctor or a children’s specialist(pediatrician). Typically, before the doctor can make adiagnosis, a thorough medical history is obtained. Thenthe child receives a physical examination , appropriate\nlaboratory tests, including a urine test ( urinalysis ), and,\nif necessary, radiologic studies (such as x rays).'), Document(metadata={'source': 'data\71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf', 'page': 468}, page_content='not have a “cure.” If the child has no underlying physicalor psychological problem that is causing the bed-wetting,in most cases he or she will outgrow the condition with-out treatment. About 15% of bedwetters become dry eachyear after age 6. If bed-wetting is frequent, accompaniedby daytime wetting, or falls into the American PsychiatricAssociation’s diagnostic definition of enuresis, a doctor\nGALE ENCYCLOPEDIA OF MEDICINE 2 455Bed-wettingGEM -0433 to 0624 - B  10/22/03 6:08 PM  Page 455')]
+
+
