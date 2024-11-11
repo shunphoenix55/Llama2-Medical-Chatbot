@@ -81,7 +81,7 @@ If you don't know the answer, just say that you don't know, don't try to make up
 Context: {context}
 Question: {question}
 
-Only return the helpful answer below and nothing else.
+Only return the helpful answer below and nothing else. Do not suggest anything if it's too dangerous to the user.
 Helpful answer:
 """
 
